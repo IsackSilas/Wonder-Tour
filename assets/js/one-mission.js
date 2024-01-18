@@ -27,7 +27,7 @@ function jillOn() {
 }
 
 function jillOff() {
-    jillImage.classList.add('pohotoDefault')
+    jillImage.classList.add('photoDefault')
     jillImage.classList.remove('photoActive')
 }
 function jamesOn() {

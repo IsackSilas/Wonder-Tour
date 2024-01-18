@@ -621,7 +621,7 @@
 
 /*
 
-    One Missin
+    One Mission
 
 */
 
@@ -661,7 +661,6 @@
 }
 
 .photoDefault{
-    border: none;
     transform: translateY(0px);
     transition: .3s;
 }
